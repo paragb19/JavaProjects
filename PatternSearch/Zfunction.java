@@ -14,7 +14,7 @@ public class Zfunction {
         System.out.println("Enter the pattern:");
 
         String pattern = mySc.nextLine();
-StringBuilder stringBuilder= new StringBuilder();
+        StringBuilder stringBuilder= new StringBuilder();
         stringBuilder.append(pattern);
         stringBuilder.append("$");
         stringBuilder.append(text);
