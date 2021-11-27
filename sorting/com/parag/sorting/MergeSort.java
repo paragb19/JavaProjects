@@ -1,4 +1,4 @@
-//package sorting;
+package com.parag.sorting;
 
 import java.util.*;
 
